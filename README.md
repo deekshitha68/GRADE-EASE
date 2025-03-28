@@ -1,8 +1,8 @@
-The AI-powered Grading Assistant Application, GradeEase, aids teachers in grading written work. Teachers can apply curated rubrics or upload their own.
+The AI-powered Grading Assistant Application, GradeMate, aids teachers in grading written work. Teachers can apply curated rubrics or upload their own.
 
 ## Architecture
 
-GradeEase is built using JavaScript for the frontend and Python for the backend. Specifically, the frontend is a ReactJS app while the backend is a Django app, functioning as an API endpoint for the frontend.
+GradeMate is built using JavaScript for the frontend and Python for the backend. Specifically, the frontend is a ReactJS app while the backend is a Django app, functioning as an API endpoint for the frontend.
 
 ## Requirements
 
