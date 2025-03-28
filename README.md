@@ -1,10 +1,8 @@
-# <img src="./frontend/src/images/logo.png" alt="drawing" width="200"/> GradeMate
-
-The AI-powered Grading Assistant Application, GradeMate, aids teachers in grading written work. Teachers can apply curated rubrics or upload their own. The most recent version of this app is available at: [www.grade-mate.app](https://www.grade-mate.app).
+The AI-powered Grading Assistant Application, GradeEase, aids teachers in grading written work. Teachers can apply curated rubrics or upload their own.
 
 ## Architecture
 
-GradeMate is built using JavaScript for the frontend and Python for the backend. Specifically, the frontend is a ReactJS app while the backend is a Django app, functioning as an API endpoint for the frontend.
+GradeEase is built using JavaScript for the frontend and Python for the backend. Specifically, the frontend is a ReactJS app while the backend is a Django app, functioning as an API endpoint for the frontend.
 
 ## Requirements
 
@@ -41,7 +39,6 @@ For installation of JavaScript and Python dependencies, see the setup instructio
 2. Create and store the GOOGLE_API_KEY.
 
   Obtain a Google API KEY here: [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-
 
 3. Prepare the _.env_ file
 
@@ -87,7 +84,7 @@ For installation of JavaScript and Python dependencies, see the setup instructio
   ```console
   npm start
   ```
-  Note: Since the two development servers need to run a the same time, open each in a separate terminal.
+  Note: Since the two development servers need to run at the same time, open each in a separate terminal.
 
 7. View the app at [http://localhost:3000](http://localhost:3000)
 
